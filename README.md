@@ -1,0 +1,2 @@
+# Hands-on-Blue-Team-Operations-Detection-Engineering-Incident-Response-Red-Team-Tradecraft-CTF-Labs-
+A practical collection of cybersecurity CTF labs covering Security Operations Center (SOC) alert triage, detection engineering, automated incident response, threat hunting (C2 beaconing, silent breaches), digital forensics, and full-scope Red Team adversary simulation (recon-to-exfiltration workflows and executive reporting).
